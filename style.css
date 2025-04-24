@@ -9,9 +9,9 @@ body {
 
       background: #e5e5e5 url('noise.png');
       font-family: Arial, sans-serif;
-      width: 1080px;
+      width: 800px;
       heigth: 100vh;
-
+      padding-left: 80px;
     }
 
 
