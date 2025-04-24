@@ -45,7 +45,7 @@ body {
 
       padding: 10px;
 
-      border: 1px solid #ccc;
+      border: 1px solid #778899;
 
       text-align: left;
 
@@ -55,8 +55,8 @@ body {
 
     th {
 
-      background-color: #f2f2f2;
-
+      background-color: #ff6d10;
+      color:#fff;
     }
 
 
@@ -64,13 +64,9 @@ body {
     caption {
 
       caption-side: top;
-
       font-weight: bold;
-
       margin-bottom: 10px;
-
       font-size: 1.1em;
-
     }
 
 
